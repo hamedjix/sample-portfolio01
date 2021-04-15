@@ -28,6 +28,7 @@ button{
 h2{
     font-weight: lighter;
     font-size: 4rem;
+    color:white;
 }
 h3{
     color:white;
